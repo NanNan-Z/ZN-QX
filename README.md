@@ -180,7 +180,6 @@
 		<td > 6 </td> <td > 百度搜索去广告 </td> <td ><a href="https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo.conf"><em>Adblock4limbo.conf</em></a></td><td>limbopro</td>
     </tr>
 </table>
-> 更多的重写请参考 [*@ddgksf2013*](https://github.com/ddgksf2013) 提供的 [***Quantumult X 重写配置***](https://github.com/ddgksf2013/Rewrite/tree/master)
 
 ## 4️⃣QuantumultX 脚本Task：
 - [x] QX每日色图脚本 [*setu.js*](https://github.com/ddgksf2013/Scripts/raw/master/setu.js)
