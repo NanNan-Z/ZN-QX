@@ -1,7 +1,6 @@
-## FORKS墨魚-个人自用
+##个人自用
 
-## 1️⃣QuantumultX 小白2.0配置：
-* 配置更新时间：2023-12-06
+## 1️⃣QuantumultX 配置：
 * 自用QX配置 [***Cuttlefish.conf***](https://raw.githubusercontent.com/NanNan-Z/Configure/main/QuantumultX.conf) 
 * 可借助 ghproxy 为 GitHub 加速：在 ```https://raw.githubusercontent.com/``` 前添加 ```https://ghproxy.com/```
 ## 2️⃣QuantumultX 分流：
